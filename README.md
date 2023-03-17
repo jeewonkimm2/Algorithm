@@ -1,3 +1,1 @@
-# Programmers_CodingTest
-
-Preparation for coding test!
+# Algorithm Study
